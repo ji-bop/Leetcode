@@ -1,4 +1,4 @@
-/* User unordered_map to group the string by their sorted
+/* Use unordered_map to group the string by their sorted
    counterparts. Use the sorted string as the key and all
    anagram strings as the value
 */
