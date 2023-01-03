@@ -1,7 +1,7 @@
 
 class Solution {
 public:
-  int minDeletionSize(vector<string<& strs) {
+  int minDeletionSize(vector<string>& strs) {
     // count no. of rows and coin.
     int rows = strs.size();
     int columns = strs[0].size();
@@ -22,4 +22,4 @@ public:
 
     return ans;
   }   
-}
+};
